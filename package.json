@@ -1,0 +1,14 @@
+{
+  "name": "recast-ast",
+  "version": "1.0.0",
+  "description": "A tool aimed at changing function to exports function based on recast",
+  "main": "index.js",
+  "bin": {
+    "exportsFn": "./index.js"
+  },
+  "author": "zhuwenfang",
+  "license": "ISC",
+  "dependencies": {
+    "recast": "^0.19.0"
+  }
+}
